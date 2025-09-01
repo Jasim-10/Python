@@ -113,3 +113,46 @@
 # print(x < 0 or y > 0)    # True, y is positive
 # # NOT
 # print(not(x > y))         # True, x > y is False, not reverses it
+
+
+
+
+#Identity Opertor
+# a = [1, 2, 3]
+# b = [1, 2, 3]
+# c = a
+# print(a == b)   # True  (values are equal)
+# print(a is b)   # False (different objects in memory)
+# print(a is c)   # True  (c refers to same object as a)
+# print(a is not b) # True
+
+
+#Membership Operator
+# word = "Python"
+# print("P" in word)      # True
+# print("y" not in word)  # False
+
+# fruits = ["apple", "banana", "mango"]
+# print("apple" in fruits)    # True
+# print("orange" not in fruits) # True
+
+# numbers = (1, 2, 3, 4)
+# print(3 in numbers)        
+# print(5  in numbers)    
+
+
+# fruits = ["apple", "banana"]
+# if "apple" in fruits:
+#     print("Apple is available")
+
+
+
+#Bitwise Operator
+a = 5   
+b = 3  
+print("a & b =", a & b)   # 1
+print("a | b =", a | b)   # 7
+print("a ^ b =", a ^ b)   # 6
+print("~a =", ~a)         # -6
+print("a << 1 =", a << 1) # 10
+print("a >> 1 =", a >> 1) # 2

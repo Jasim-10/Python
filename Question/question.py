@@ -32,17 +32,17 @@
 
 
 
-#grade of student
-# marks = int(input("Enter the marks: "))
-# if marks > 100 or marks < 0:
-#     print("Invalid marks")
-# elif marks >=81:
-#     print("Very Good")
-# elif marks >=61:
-#     print("Good")
-# elif marks >=41:
-#     print("Average")
-# else:
+grade of student
+marks = int(input("Enter the marks: "))
+if marks > 100 or marks < 0:
+    print("Invalid marks")
+elif marks >=81:
+    print("Very Good")
+elif marks >=61:
+    print("Good")
+elif marks >=41:
+    print("Average")
+else:
 
 
 

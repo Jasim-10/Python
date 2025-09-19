@@ -86,3 +86,10 @@ fruits = ["apple", "banana", "mango", "banana"]
 # print(fruits)
 # fruits.sort(reverse=True)
 # print(fruits)
+
+
+
+# reverse the list
+fruits = ["apple", "banana", "mango", "orange", "kiwi"]
+fruits.reverse()
+print(fruits)

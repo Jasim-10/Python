@@ -63,3 +63,19 @@ fruits = ["apple", "banana", "mango", "banana"]
 
 
 
+# fruits = ["apple", "banana", "mango", "orange", "kiwi"]
+# print(fruits)
+# fruits[1:4] = ["grapes", "pineapple", "papaya","dragonfruit","pomegrante"]                  
+# print(fruits)
+
+
+
+# Sorting a list
+# list = [1,2,4,5,3,7,4,8]
+# list.sort()
+# print(list)
+
+
+list = [1,2,4,5,3,7,4,8]
+list.sort(reverse=True)
+print(list)

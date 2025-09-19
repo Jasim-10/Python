@@ -76,6 +76,13 @@ fruits = ["apple", "banana", "mango", "banana"]
 # print(list)
 
 
-list = [1,2,4,5,3,7,4,8]
-list.sort(reverse=True)
-print(list)
+# list = [1,2,4,5,3,7,4,8]
+# list.sort(reverse=True)
+# print(list)
+
+
+# fruits = ["apple", "banana", "mango", "orange", "kiwi"]
+# fruits.sort()
+# print(fruits)
+# fruits.sort(reverse=True)
+# print(fruits)

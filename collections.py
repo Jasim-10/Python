@@ -113,3 +113,110 @@ fruits = ["apple", "banana", "mango", "banana"]
 # print(new_fruits)
 
 
+
+
+# tuple
+# colors = ("red","yellow","green")
+# print(colors)
+# print(type(colors))
+# print(len(colors))
+
+
+# color = ("red",)
+# print(color)
+# print(type(color))
+
+
+
+# accesing item at tuple
+# colors = ("red","yellow","green")
+# print(colors[1])
+
+
+# check if an item exist in tuple
+# colors = ("red","yellow","green")
+# if "green" in colors:
+#     print("green is part of tuple")
+
+# unpacking a tuple
+# colors = ("red","yellow","green")
+# color1,color2,color3 = colors
+# print(color1,color2,color3)
+
+# reverse
+# num = (1,2,3,4,5,6,7)
+
+# list = []
+
+# for x in reversed(num):
+#     list.append(x)
+
+# result = tuple(list)
+# print(result)
+
+
+
+
+
+# Sets
+# names = {"jasim","aman","pawan","avinash"}
+# print(names)
+# print(len(names))
+# print(type(names))
+
+
+# accessing items of set
+# names = {"jasim","aman","pawan","avinash"}
+# for x in names:
+#     print(x)
+
+
+# check if an item is exist in a set
+# names = {"jasim","aman","pawan","avinash"}
+# if "aman" in names:
+#     print("aman is in set")
+
+
+# add element
+# names = {"jasim","aman","pawan","avinash"}
+# names.add("Nia")
+# print(names)
+
+
+# add sequence
+# names = {"jasim","aman","pawan","avinash"}
+# names_list = {"nia","ria","dia"}
+# names.update(names_list)
+# print(names)
+
+
+# remove element
+# names = {"jasim","aman","pawan","avinash"}
+# names.remove("pawan")
+# print(names)
+
+
+# names = {"jasim","aman","pawan","avinash"}
+# names.discard("ria")   #this will not throw error if value is not present in set 
+# print(names)
+
+
+# s1 = {1,2,3}
+# s2 = {3,4,5,6}
+# s3 = s1.union(s2)
+# print(s3)
+
+
+# s1 = {1,2,3}
+# s2 = {3,4,5,6}
+# s3 = s1.intersection(s2)
+# print(s3)
+
+
+
+
+
+
+
+
+# Dictionary

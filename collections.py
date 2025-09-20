@@ -90,6 +90,7 @@ fruits = ["apple", "banana", "mango", "banana"]
 
 
 # reverse the list
-fruits = ["apple", "banana", "mango", "orange", "kiwi"]
-fruits.reverse()
-print(fruits)
+# fruits = ["apple", "banana", "mango", "orange", "kiwi"]
+# fruits.reverse()
+# print(fruits)
+

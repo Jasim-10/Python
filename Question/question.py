@@ -116,3 +116,34 @@
 # print(final_set)
 
 
+
+
+# dict = {
+#     'a':100,
+#     'b':200,
+#     'c':300
+# }
+# print(sum(dict.values()))
+
+
+
+
+# input_string = input("Enter the string: ")
+# n = int(input("Enter n: "))
+
+# alphabets = "abcdefghijklmnopqrstuvwxyz"
+# reverse = alphabets[::-1]
+# dict1 = dict(zip(alphabets,reverse))
+
+# prefix = input_string[0:n-1]
+# suffix = input_string[n-1:]
+
+
+# mirror = ""
+# for i in range(0,len(suffix)):
+#     mirror = mirror + dict1[suffix[i]]
+
+# res = prefix + mirror
+# print("The result is : ",res)
+
+

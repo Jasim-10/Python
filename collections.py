@@ -220,3 +220,73 @@ fruits = ["apple", "banana", "mango", "banana"]
 
 
 # Dictionary
+# phone_number = {
+#     "john":897457,
+#     "ria":785956,
+#     "joy":754864
+# }
+# print(phone_number)
+# print(type(phone_number))
+# print(len(phone_number))
+
+
+# phone_number = {
+#     "john":897457,
+#     "ria":785956,
+#     "joy":754864
+# }
+# print(phone_number["john"])
+# print(phone_number.keys())
+
+# phone_number["john"] = 7847854865
+# print(phone_number)
+# phone_number["kia"] = 458542
+# print(phone_number)
+
+
+
+# phone_number = {
+#     "john":897457,
+#     "ria":785956,
+#     "joy":754864
+# }
+# phone_number.clear()    #this is empty the dictionary
+# print(phone_number)
+
+
+
+# phone_number = {
+#     "john":897457,
+#     "ria":785956,
+#     "joy":754864
+# }
+# for x in phone_number:
+#     print(phone_number[x])
+
+
+
+# phone_number = {
+#     "john":897457,
+#     "ria":785956,
+#     "joy":754864
+# }
+# for x,y in phone_number.items():
+#     print(x,y)
+
+
+
+# phones = {
+#     "number1":{
+#         "joy":78,
+#         "john":79,
+#         "jay":80
+#     },
+#     "number2":{
+#         "nia":81,
+#         "ria":82,
+#         "dia":83
+#     }
+# }
+# print(phones["number1"]["jay"])
+
+

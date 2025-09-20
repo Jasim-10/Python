@@ -94,3 +94,22 @@ fruits = ["apple", "banana", "mango", "banana"]
 # fruits.reverse()
 # print(fruits)
 
+
+
+# list comprehension
+# list = [10,12,11,54,53,62,45,43]
+# new_list = [i for i in list if i > 25]
+# print(new_list)
+
+
+# fruits = ["apple", "banana", "mango", "orange", "kiwi"]
+# new_fruits = [fruit for fruit in fruits if "a" in fruit]
+# print(new_fruits)
+
+
+# copy a list
+# fruits = ["apple", "banana", "mango", "orange", "kiwi"]
+# new_fruits = fruits.copy()
+# print(new_fruits)
+
+
